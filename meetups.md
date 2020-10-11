@@ -4,10 +4,6 @@
 
 ### Meetup 1: October 11 2020
 
-**Attendees**
-- Vishi, Peroli, Arun, Saravanan, Dharma, Ramesh, Siraj
-
-
 ### MOM
 - Discussed on few ideas and common issues
 - Healthy discussion around Database and code refactoring
